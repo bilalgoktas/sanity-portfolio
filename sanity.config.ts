@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'Portfolio Content',
 
-  projectId: 'c7kryak1',
+  projectId: import.meta.env.SANITY_STUDIO_PROJECT_ID,
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
