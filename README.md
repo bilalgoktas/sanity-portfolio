@@ -1,3 +1,5 @@
+`Enter your PROJECT ID of sanity studio` and then `npm run dev`
+
 # Sanity Clean Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
